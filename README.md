@@ -1,2 +1,0 @@
-# SwitchyOmega
-SwitchyOmega代理
